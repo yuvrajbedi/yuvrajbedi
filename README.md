@@ -1,6 +1,8 @@
-### Hello there 👋
+<h3>Hello there! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h3>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
+![Profile View Counter](https://komarev.com/ghpvc/?username=yuvrajbedi)
 
-- 🔭 I’m currently a MCA student from NIT Calicut 
+- 🔭 Final Year <strong>MCA</strong> student from <strong>NIT Calicut</strong>.
 - 🌱 I’m currently learning some new technologies
 - 👯 I’m looking to collaborate on Android Studio
 - 🤔 I’m looking for help with Web Development
