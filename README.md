@@ -11,4 +11,8 @@
 - ⚡ <strong>Problem Solving</strong> enthusiast.
 - 👯 Recent tech worked on<strong> Android Studio</strong> with<strong> JAVA</strong>.
 - 🌱 I’m currently learning <strong>Web Development</strong>.
+<br>
 
+[![Yuvraj's github stats](https://github-readme-stats.vercel.app/api?username=yuvrajbedi&card_width=500)](https://github.com/yuvrajbedi/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajbedi&layout=default&card_width=500)](https://github.com/yuvrajbedi/github-readme-stats)
