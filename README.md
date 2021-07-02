@@ -1,5 +1,5 @@
 <h3>Hello there! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h3>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
 
 ![View Counter](https://komarev.com/ghpvc/?username=yuvrajbedi)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/yuvrajbedi)
