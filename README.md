@@ -9,7 +9,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 Final Year <strong>MCA</strong> student at <strong>NIT Calicut</strong>.
+- 🔭 <strong>MCA</strong> graduate from <strong>NIT Calicut</strong>, currently working in top MNC
 - ⚡ <strong>Problem Solving</strong> enthusiast.
 - 👯 Recent tech worked on<strong> Android Studio</strong> with<strong> JAVA</strong>.
 - 🌱 Currently learning <strong>Web Development</strong>.
